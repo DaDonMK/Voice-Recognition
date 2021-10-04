@@ -6,9 +6,9 @@ import routes from '././routes'
 const App = () => {
 
     return(
-    <div>
-      {routes}
-    </div>
+      <div>
+        {routes}
+      </div>
     )
 }
 

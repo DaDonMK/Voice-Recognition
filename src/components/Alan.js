@@ -40,7 +40,7 @@ function Allen() {
   return (
     <div className="App">
       <Header />
-      <p>Hello</p>
+      <p>Voice Recognition Trial</p>
     </div>
   );
 }
