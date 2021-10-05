@@ -33,7 +33,14 @@ function Home() {
             </div>
 
             <p>Development of a smartphone app to help any blind person navigate indoors safely.</p>
-
+            <ul>
+                <li>
+                    <a href='https://docs.google.com/presentation/d/1hYcD5P2wUNS9k4hobFOG5Kx3v6ibz9siB7E5QKNGwTo/edit#slide=id.p' target="_blank">Powerpoint Info</a>
+                </li>
+                <li>
+                    <a target="_blank" href='https://docs.google.com/forms/d/1vmPwT3yxOPtZwf5Xep3-51TdvBrd9ytumtbIkmm_tA8/edit'>Questionnaire</a>
+                </li>
+            </ul>
             <div class='section-title'>
                 <h3>Deliverables:</h3>
             </div>
